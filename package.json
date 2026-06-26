@@ -1,0 +1,15 @@
+{
+  "name": "express-sample-app",
+  "version": "1.0.0",
+  "description": "Simple Express app running on port 8080",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
