@@ -26,10 +26,6 @@ app.get("/", (req, res) => {
 ');
 });
 
-// Another sample route
-app.get("/api/hello", (req, res) => {
-  res.json({ message: "Hello from API route!" });
-});
 
 // Start server
 app.listen(PORT, () => {
